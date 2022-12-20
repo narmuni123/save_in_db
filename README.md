@@ -1,19 +1,10 @@
 # save_in_db
 
-A new Flutter project.
+A flutter application where I used object box as local storage
 
-## Getting Started
+- In this project I am using the User object model and I am performing the CRUD operations on user's list.
 
-This project is a starting point for a Flutter application.
+Run builder_runner - cmd -  flutter pub run build_runner build
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# save_in_db
-
+Android min sdk version - 21
+Ios pod file set IOS version to - platform :ios, '11.0'
